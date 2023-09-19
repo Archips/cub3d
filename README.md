@@ -18,7 +18,7 @@ Based on the famous game Wolf3D, Cub3D is a graphical programming endeavor desig
 - **Scene Configuration:** Users can configure the scene by providing a scene description file with specific elements like textures and colors.
 
 ## Usage
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine [macOs version](https://github.com/Archips/cub3D_macos) | [linux version](https://github.com/Archips/cub3D_linux). 
 2. Compile the program using the provided Makefile.
 3. Run the program with a map file in the `.cub` format as the first argument.
    `./cub3D path_to_scene.cub`
