@@ -35,5 +35,5 @@ Based on the famous game Wolf3D, Cub3D is a graphical programming endeavor desig
 
 ## Author
 
-[Archibald Thirion](https://github.com/Archips)
+[Archibald Thirion](https://github.com/Archips)  
 [Clément Vidon](https://github.com/clemedon)
