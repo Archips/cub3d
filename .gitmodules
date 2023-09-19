@@ -1,0 +1,6 @@
+[submodule "macOs"]
+	path = macOs
+	url = https://github.com/Archips/cub3D_macos
+[submodule "linux"]
+	path = linux
+	url = https://github.com/Archips/cub3D_linux
