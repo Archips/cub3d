@@ -1,6 +1,7 @@
 # cub3D
 
-## Description
+![cub3D-demo](https://github.com/Archips/cub3d/blob/main/cub3d_hd.gif)
+
 Based on the famous game Wolf3D, Cub3D is a graphical programming endeavor designed to create a realistic 3D graphical representation of the inside of a maze from a first-person perspective. It leverages the principles of Ray-Casting to accomplish this task. The project aims to enhance programming skills by focusing on rigor, C language proficiency, basic algorithms, and information research. Additionally, it provides an opportunity to delve into graphic design concepts such as window management, color handling, event handling, and shape rendering.
 
 ## Project Highlights
